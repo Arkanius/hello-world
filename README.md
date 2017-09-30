@@ -48,3 +48,7 @@ Run: `python3 hello_world_2.py`
 Compile: `rustc hello_world.rs`
 
 Run: `./hello_world.rs`
+
+# Php
+
+Run: `php hello_world.php`
