@@ -57,7 +57,12 @@ https://www.splitbrain.org/services/ook
 =======
 
 # Perl
+
 Run: perl hello_world.pl
+
+# Php
+
+Run: `php hello_world.php`
 
 # Processing
 Compile and Run : processing-java --run --sketch=`pwd`/HelloWorld --output=`pwd`/HelloWorld/output
